@@ -1,1 +1,10 @@
-
+{
+  "news": [
+    {
+      "Case": "Software",
+      "PostDate": "2018-06-13 17:41",
+      "Header": "Update",
+      "Content": "Version 0.1 is released"
+    }
+  ]
+}
