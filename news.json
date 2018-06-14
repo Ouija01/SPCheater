@@ -2,13 +2,43 @@
   "news": [
     {
       "Case": "Software",
-      "PostDate": "2018-06-13 17:41",
+      "PostDate": "2018.06.13 17:41",
       "Header": "Update",
       "Content": "Version 0.1 is released"
     },
     {
       "Case": "Notice",
-      "PostDate": "2018-06-14 20:30",
+      "PostDate": "2018.06.14 20:30",
+      "Header": "Notice",
+      "Content": "Test News"
+    },
+    {
+      "Case": "Notice",
+      "PostDate": "2018.06.14 20:30",
+      "Header": "Notice",
+      "Content": "Test News"
+    },
+    {
+      "Case": "Notice",
+      "PostDate": "2018.06.14 20:30",
+      "Header": "Notice",
+      "Content": "Test News"
+    },
+    {
+      "Case": "Notice",
+      "PostDate": "2018.06.14 20:30",
+      "Header": "Notice",
+      "Content": "Test News"
+    },
+    {
+      "Case": "Notice",
+      "PostDate": "2018.06.14 20:30",
+      "Header": "Notice",
+      "Content": "Test News"
+    },
+    {
+      "Case": "Notice",
+      "PostDate": "2018.06.14 20:30",
       "Header": "Notice",
       "Content": "Test News"
     }
